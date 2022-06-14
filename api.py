@@ -18,8 +18,6 @@ ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'webp', 'jfif'])
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
-
-
 class UploadImage(Resource):
     #Upload image files to server
     def get(self):
@@ -31,7 +29,7 @@ class UploadImage(Resource):
             filename = secure_filename(file.filename)
             file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
             file.save(file_path)
-            return {'File': 'uploaded'}
+        return {'File': 'uploaded success'}
 
 
 class DownloadImage(Resource):
