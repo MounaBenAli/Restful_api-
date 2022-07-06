@@ -55,7 +55,6 @@ This project will be of great help to users who are looking to identify the bran
  
  
 ## Deployed site
- 
 [Please visit our Website](https://car-detect.systems/)
 
 
@@ -68,8 +67,7 @@ This project will be of great help to users who are looking to identify the bran
  - [Mouna Ben Ali](#mouna-benali)
  
  
-##  Presentation
- 
+##  Presentation 
 [Demo Day Presentation](https://docs.google.com/presentation/d/10dEp7BPVkv_gFFCBBhhpVIYzz9P5TSZ05xHUIwR1AKM/edit#slide=id.gf45378fd24_0_9)
  
 ## Installation
@@ -79,7 +77,21 @@ Do we have a Discord bot?
 We actually do! check it here!
 Type /predict and attach any number of car images to predict
 ## Screenshots
+This is the Landing Page of Car Detector
+![Landing Page](docs/1.png)
+- Choose an image file and upload it
+![Landing Page](docs/2.png)
+- Click Detect
+![Landing Page](docs/5.png)
+![Landing Page](docs/1.png)
+![Landing Page](docs/1.png)
+![Landing Page](docs/1.png)
 ## Features
+Main Features of Car Detector:
+- Upload images to API Detect car and return its model, brand, year and color
+- GET saved predictions from API via database
+- Discord Bot to predict
+
 ## Built With
 * [Res-Net](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) - Machine Learning Neural Network
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Python library for Web Scraping
