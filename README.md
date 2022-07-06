@@ -89,25 +89,33 @@ Type /predict and attach any number of car images to predict
 ## Screenshots
 
 - Choose an image file and upload it
+
 ![Landing Page](docs/1.png)
 
 - Click Detect
+
 ![Landing Page](docs/2.png)
 
 - Detecting
 ![Landing Page](docs/3.png)
 
 - Check Prediction
+
 ![Landing Page](docs/4.png)
 
 - Try it with an image URL
+
 ![Landing Page](docs/5.png)
 
 - Check Prediction
+
 ![Landing Page](docs/6.png)
 
 - Try our discord Bot
+
 ![Landing Page](docs/7.png)
+
+
 ![Landing Page](docs/8.png)
 
 ## Features
