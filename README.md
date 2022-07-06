@@ -12,10 +12,10 @@ Welcome to Car Detector our End of Foundation Year Portfolio Project for Holbert
  
 ## Table of Contents
  
-- [The Story](##the-story)
-- [Deployed Site](##deployed-site)
+- [The Story](#the-story)
+- [Deployed Site](#deployed-site)
 - [Blogs](##blogs)
-- [Presentation](##presentation)
+- [Presentation](#presentation)
 - [Installation](##installation)
 - [Getting Started](##getting-started)
 - [Screenshots](##screenshots)
