@@ -14,18 +14,18 @@ Welcome to Car Detector our End of Foundation Year Portfolio Project for Holbert
  
 - [The Story](#the-story)
 - [Deployed Site](#deployed-site)
-- [Blogs](##blogs)
+- [Blogs](#blogs)
 - [Presentation](#presentation)
-- [Installation](##installation)
-- [Getting Started](##getting-started)
-- [Screenshots](##screenshots)
-- [Features](##features)
-    - [Github OAuth](##github-oauth)
-    - [Job Search](##job-search)
-- [Built With](##built-with)
-- [API](##api)
-- [Future](##future)
-- [Authors](##authors)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
+- [Features](#features)
+    - [Github OAuth](#github-oauth)
+    - [Job Search](#job-search)
+- [Built With](#built-with)
+- [API](#api)
+- [Future](#future)
+- [Authors](#authors)
     - [Dhia Ben Dahmani](#dhia-bendahmani)
     - [Rayen Hedri](#rayen-hedri)
     - [Montassar Barbouchi](#montassar-barbouchi)
@@ -37,7 +37,9 @@ Welcome to Car Detector our End of Foundation Year Portfolio Project for Holbert
  
 This project started as an idea between Dhia and Rayen when they thought about their childhood and how they used to try to guess the brands of the passing cars in the streets but could not be sure about it. That is how they thought about bringing Car Detector to life.
  
-<b>Car Detector</b> is an AI API that would allow the user to upload a picture of a car(from file or URL), predict its model or brand  and display information about it(brand, model, year and color). The team implemented this API with a precise approach that focuses on asynchronous programming and achieving scalability of the project and separating the service into distinct detached sections, so each section addresses a separate concern. With an Agile approach to Project Management that delivers work in small, but consumable, increments.
+<b>Car Detector</b> is an AI API with 93% accuracy on brands. It will recognize the year, model and color of most cars since 1928. You can use our api by choosing a file and clicking detect or using our api routes!
+
+You can upload a picture of a car(from file or URL), predict its model or brand and display information about it(brand, model, year and color). The team implemented this API with a precise approach that focuses on asynchronous programming and achieving scalability of the project and separating the service into distinct detached sections, so each section addresses a separate concern. With an Agile approach to Project Management that delivers work in small, but consumable, increments.
  
  
 Here is our priority objectives:
@@ -50,7 +52,6 @@ Here is our priority objectives:
 - Cleaning the codebase on Github
  
 This project will be of great help to users who are looking to identify the brand or model of a particular car, however, it can also be deployed as a component of a surveillance system or a study to identify which cars are more popular. The API can be of service to car enthusiasts, car insurances, car fleet management companies like car dealers or car rentals.
- 
  
  
 ## Deployed site
@@ -68,7 +69,38 @@ This project will be of great help to users who are looking to identify the bran
  
 [Demo Day Presentation](https://docs.google.com/presentation/d/10dEp7BPVkv_gFFCBBhhpVIYzz9P5TSZ05xHUIwR1AKM/edit#slide=id.gf45378fd24_0_9)
  
- 
+## Installation
+## Getting Started
+## Screenshots
+## Features
+## Built With
+* [Res-Net](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035) - Machine Learning Neural Network
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Python library for Web Scraping
+* [Flask-RESTful](https://flask-restful.readthedocs.io/en/latest/) - Flask extension for quickly building REST APIs
+* [MongoDB](https://www.mongodb.com/) - Document based database for Object Relational Mapper
+* [React](https://reactjs.org) - Javascript Library for Front End
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets
+* [Docker](https://docs.docker.com/) - Docker Compose for deployment
+* [Nginx](https://nginx.org/en/docs/) - Web Server
+* [Gunicorn](https://docs.gunicorn.org/en/stable/) -  WSGI server
+
+## API ROUTES
+
+The API can be found in car_detector/backend/app/api.py and to use any call, use POSTMAN.
+
+- POST /api/predict
+Send an image with the key file or the url with key url on the body of a POST request and you will get prediction in this JSON format:
+```
+{ "_id": "4d19b7a71f57627144fbb28575d4010c", "img_path": "/static/uploads/images_2.jpeg", "result": { "brand": "Bmw", "model": "3 series sedan", "color": "black", "year": 2015 }
+```
+- GET /api/prediction?id=
+Send id in the GET request parameters and you will get the same response with that id.
+
+## Future
+- Multiple car detection
+- Car existence verification
+- Faster api response with asynchronous programming
+
 ## Authors (LinkedIn & Github) :black_nib:
 Thanks goes to these wonderful people
  
@@ -119,8 +151,9 @@ Thanks goes to these wonderful people
  
 <!-- ALL-CONTRIBUTORS-LIST:END -->
  
- 
- 
+ ## Acknowledgments
+ * [Holberton School](https://www.holbertonschool.com/) (Staff and Students)
+ * [Ahmed Belhaj](https://github.com/Theemiss) (Our Foundation Mentor)
  
  
  
