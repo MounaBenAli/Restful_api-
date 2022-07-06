@@ -40,7 +40,7 @@ This project started as an idea between Dhia and Rayen when they thought about t
  
  
 Here is our priority objectives:
-1 - Having a simple cli app prototype working on a sample of data(Beta)
+- [Having a simple cli app prototype working on a sample of data(Beta)] (#acknowledgements)
 2 - Fetching the new data and cleaning it and retraining the model
 3 - Creating the AI library with a simple class that returns car predictions when initialized with a picture
 4 - Creating a RESTful API  with the library
@@ -60,7 +60,7 @@ This project will be of great help to users who are looking to identify the bran
  - [Dhia Ben Dahmani](https://medium.com/@dhiadah/car-detector-a-month-long-journey-ea13d8a8cc36)
  - [Rayen Hedri](#rayen-hedri)
  - [Montassar Barbouchi](#montassar-barbouchi)
-   - [Mouna Ben Ali](#mouna-benali)
+ - [Mouna Ben Ali](#mouna-benali)
  
 [Please visit each team member blog post about the project](https://car-detect.systems/ insert links here )
  
