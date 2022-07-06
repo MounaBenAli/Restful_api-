@@ -57,6 +57,8 @@ This project will be of great help to users who are looking to identify the bran
 ## Deployed site
  
 [Please visit our Website](https://car-detect.systems/)
+
+
 ![QR CODE](docs/QRCODE.PNG)
  
 ##  Blogs 
