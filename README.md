@@ -81,8 +81,9 @@ Check README.md from car_detector/backend/ & car_detector/frontend/cdfe/ for mor
 
 ## Getting Started
 Access on car-detect.systems and upload a file or a URL and click detect
+
 Do we have a Discord bot?
-We actually do! check it here!
+We actually do! Check it [here](https://discord.com/oauth2/authorize?client_id=991017270878822401&permissions=8&scope=bot)!
 Type /predict and attach any number of car images to predict
 ## Screenshots
 This is the Landing Page of Car Detector
