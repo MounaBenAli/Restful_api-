@@ -84,30 +84,32 @@ Access on car-detect.systems and upload a file or a URL and click detect
 
 Do we have a Discord bot?
 We actually do! Check it [here](https://discord.com/oauth2/authorize?client_id=991017270878822401&permissions=8&scope=bot)!
+
 Type /predict and attach any number of car images to predict
 ## Screenshots
-This is the Landing Page of Car Detector
-
-![Landing Page](docs/1.png)
 
 - Choose an image file and upload it
-
-![Landing Page](docs/2.png)
+![Landing Page](docs/1.png)
 
 - Click Detect
+![Landing Page](docs/2.png)
 
+- Detecting
+![Landing Page](docs/3.png)
+
+- Check Prediction
+![Landing Page](docs/4.png)
+
+- Try it with an image URL
 ![Landing Page](docs/5.png)
 
 - Check Prediction
 ![Landing Page](docs/6.png)
 
-- Try it with an image URL
-
+- Try our discord Bot
+![Landing Page](docs/7.png)
 ![Landing Page](docs/8.png)
 
-- Try our discord Bot
-
-![Landing Page](docs/9.png)
 ## Features
 Main Features of Car Detector:
 - Upload images to API Detect car and return its model, brand, year and color
