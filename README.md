@@ -78,14 +78,27 @@ We actually do! check it here!
 Type /predict and attach any number of car images to predict
 ## Screenshots
 This is the Landing Page of Car Detector
+
 ![Landing Page](docs/1.png)
+
 - Choose an image file and upload it
+
 ![Landing Page](docs/2.png)
+
 - Click Detect
+
 ![Landing Page](docs/5.png)
-![Landing Page](docs/1.png)
-![Landing Page](docs/1.png)
-![Landing Page](docs/1.png)
+
+- Check Prediction
+![Landing Page](docs/6.png)
+
+- Try it with an image URL
+
+![Landing Page](docs/8.png)
+
+- Try our discord Bot
+
+![Landing Page](docs/9.png)
 ## Features
 Main Features of Car Detector:
 - Upload images to API Detect car and return its model, brand, year and color
