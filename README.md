@@ -6,6 +6,8 @@
 ## Introduction
 
 Welcome to Car Detecor our End of Foundation Year Portfolio Project for Holberton School Tunis. It is a car model classification API using Neural Nets.
+
+
 ![Logo School](holberton.png)
 
 ###  Deployed site
@@ -43,6 +45,26 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
    <tr>
     <td align="center"><a href="https://github.com/rayenhdr93"><img src="https://avatars.githubusercontent.com/u/91053565?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://www.linkedin.com/in/rayen-hedri-61ab5221a/">Rayen Hedri</b></sub></a><br />
     <a href="#ideas-MatthiasWanner" title="Data">🔣</a>
+    <a href="#ideas-MatthiasWanner" title="Code">💻</a>
+    <a href="#ideas-MatthiasWanner" title="Test">⚠️</a>
+        <a href="#ideas-MatthiasWanner" title="Bugs">🐛</a>
+    <a href="#ideas-MatthiasWanner" title="Documentation">📖</a>
+    <a href="#ideas-MatthiasWanner" title="Blog">📝</a>
+    </td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/MounaBenAli"><img src="https://avatars.githubusercontent.com/u/90987270?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://www.linkedin.com/in/mouna-ben-ali-643bb865/">Mouna Ben Ali</b></sub></a><br />
+    <a href="#ideas-MatthiasWanner" title="Code">💻</a>
+    <a href="#ideas-MatthiasWanner" title="Test">⚠️</a>
+    <a href="#ideas-MatthiasWanner" title="Bugs">🐛</a>
+    <a href="#ideas-MatthiasWanner" title="Design">🎨</a>
+    <a href="#ideas-MatthiasWanner" title="Documentation">📖</a>
+    <a href="#ideas-MatthiasWanner" title="Blog">📝</a>
+    </td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/MontassarBar"><img src="https://avatars.githubusercontent.com/u/91077064?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://www.linkedin.com/in/montassar-barbouchi-391b6b220/">Montassar Barbouchi</b></sub></a><br />
+    <a href="#ideas-MatthiasWanner" title="Front-End">🎨</a>
     <a href="#ideas-MatthiasWanner" title="Code">💻</a>
     <a href="#ideas-MatthiasWanner" title="Test">⚠️</a>
         <a href="#ideas-MatthiasWanner" title="Bugs">🐛</a>
