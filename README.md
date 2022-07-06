@@ -57,7 +57,6 @@ Thanks goes to these wonderful people
     <a href="#ideas-MatthiasWanner" title="Documentation">📖</a>
     <a href="#ideas-MatthiasWanner" title="Blog">📝</a>
     </td>
-   <tr>
     <td align="center"><a href="https://github.com/MontassarBar"><img src="https://avatars.githubusercontent.com/u/91077064?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://www.linkedin.com/in/montassar-barbouchi-391b6b220/">Montassar Barbouchi</b></sub></a><br />
     <a href="#ideas-MatthiasWanner" title="Front-End">🎨</a>
     <a href="#ideas-MatthiasWanner" title="Code">💻</a>
