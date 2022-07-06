@@ -12,19 +12,20 @@ Welcome to Car Detector our End of Foundation Year Portfolio Project for Holbert
  
 ## Table of Contents
  
-- [The Story](#the-story)
-- [Deployed Site](#deployed-site)
-- [Blogs](#blogs)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Features](#features)
-    - [Github OAuth](#github-oauth)
-    - [Job Search](#job-search)
-- [Built With](#built-with)
-- [API](#api)
-- [Future](#future)
-- [Authors](#authors)
+- [The Story](##the-story)
+- [Deployed Site](##deployed-site)
+- [Blogs](##blogs)
+- [Presentation](##presentation)
+- [Installation](##installation)
+- [Getting Started](##getting-started)
+- [Screenshots](##screenshots)
+- [Features](##features)
+    - [Github OAuth](##github-oauth)
+    - [Job Search](##job-search)
+- [Built With](##built-with)
+- [API](##api)
+- [Future](##future)
+- [Authors](##authors)
     - [Dhia Ben Dahmani](#dhia-bendahmani)
     - [Rayen Hedri](#rayen-hedri)
     - [Montassar Barbouchi](#montassar-barbouchi)
@@ -40,13 +41,13 @@ This project started as an idea between Dhia and Rayen when they thought about t
  
  
 Here is our priority objectives:
-- [Having a simple cli app prototype working on a sample of data(Beta)] (#acknowledgements)
-2 - Fetching the new data and cleaning it and retraining the model
-3 - Creating the AI library with a simple class that returns car predictions when initialized with a picture
-4 - Creating a RESTful API  with the library
-5 - ORM with database to save the predictions
-6 - Creating a creative and user-friendly UI with the front-end
-7 - Cleaning the codebase on Github
+- Having a simple cli app prototype working on a sample of data(Beta)
+- Fetching the new data and cleaning it and retraining the model
+- Creating the AI library with a simple class that returns car predictions when initialized with a picture
+- Creating a RESTful API  with the library
+- ORM with database to save the predictions
+- Creating a creative and user-friendly UI with the front-end
+- Cleaning the codebase on Github
  
 This project will be of great help to users who are looking to identify the brand or model of a particular car, however, it can also be deployed as a component of a surveillance system or a study to identify which cars are more popular. The API can be of service to car enthusiasts, car insurances, car fleet management companies like car dealers or car rentals.
  
@@ -54,22 +55,21 @@ This project will be of great help to users who are looking to identify the bran
  
 ## Deployed site
  
-[Please visit our Deployed Website](https://car-detect.systems/)
+[Please visit our Website](https://car-detect.systems/)
  
-####  Blogs 
+##  Blogs 
  - [Dhia Ben Dahmani](https://medium.com/@dhiadah/car-detector-a-month-long-journey-ea13d8a8cc36)
  - [Rayen Hedri](#rayen-hedri)
  - [Montassar Barbouchi](#montassar-barbouchi)
  - [Mouna Ben Ali](#mouna-benali)
  
-[Please visit each team member blog post about the project](https://car-detect.systems/ insert links here )
  
-####  Presentation
+##  Presentation
  
-[Please visit our Presentation for Demo Day](https://docs.google.com/presentation/d/10dEp7BPVkv_gFFCBBhhpVIYzz9P5TSZ05xHUIwR1AKM/edit#slide=id.gf45378fd24_0_9)
+[Demo Day Presentation](https://docs.google.com/presentation/d/10dEp7BPVkv_gFFCBBhhpVIYzz9P5TSZ05xHUIwR1AKM/edit#slide=id.gf45378fd24_0_9)
  
  
-#### Authors (LinkedIn & Github) :black_nib:
+## Authors (LinkedIn & Github) :black_nib:
 Thanks goes to these wonderful people
  
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -118,12 +118,6 @@ Thanks goes to these wonderful people
 <!-- prettier-ignore-end -->
  
 <!-- ALL-CONTRIBUTORS-LIST:END -->
- 
-## Installation
-## Usage
-## Contributing
-## Related projects
-### Acknowledgements
  
  
  
