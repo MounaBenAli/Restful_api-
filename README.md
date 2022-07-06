@@ -57,6 +57,7 @@ This project will be of great help to users who are looking to identify the bran
 ## Deployed site
  
 [Please visit our Website](https://car-detect.systems/)
+![QR CODE](docs/qrcode.png)
  
 ##  Blogs 
  - [Dhia Ben Dahmani](https://medium.com/@dhiadah/car-detector-a-month-long-journey-ea13d8a8cc36)
@@ -71,6 +72,10 @@ This project will be of great help to users who are looking to identify the bran
  
 ## Installation
 ## Getting Started
+Access on car-detect.systems and upload a file or a URL and click detect
+Do we have a Discord bot?
+We actually do! check it here!
+Type /predict and attach any number of car images to predict
 ## Screenshots
 ## Features
 ## Built With
@@ -153,7 +158,7 @@ Thanks goes to these wonderful people
  
  ## Acknowledgments
  * [Holberton School](https://www.holbertonschool.com/) (Staff and Students)
- * [Ahmed Belhaj](https://github.com/Theemiss) (Our Foundation Mentor)
+ * [Ahmed Belhaj](https://github.com/Theemiss) (Our Foundation Year Mentor)
  
  
  
