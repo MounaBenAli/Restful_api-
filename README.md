@@ -20,8 +20,9 @@ Welcome to Car Detector our End of Foundation Year Portfolio Project for Holbert
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
 - [Features](#features)
-    - [Github OAuth](#github-oauth)
-    - [Job Search](#job-search)
+    - [Upload images to API Detect car and return its model, brand, year and color](#features)
+    - [GET saved predictions from API via database](#features)
+    - [Discord Bot to predict](#features)
 - [Built With](#built-with)
 - [API](#api)
 - [Future](#future)
@@ -71,6 +72,13 @@ This project will be of great help to users who are looking to identify the bran
 [Demo Day Presentation](https://docs.google.com/presentation/d/10dEp7BPVkv_gFFCBBhhpVIYzz9P5TSZ05xHUIwR1AKM/edit#slide=id.gf45378fd24_0_9)
  
 ## Installation
+Please clone repo 
+```
+https://github.com/pfadrm/car_detector.git
+
+```
+Check README.md from car_detector/backend/ & car_detector/frontend/cdfe/ for more information
+
 ## Getting Started
 Access on car-detect.systems and upload a file or a URL and click detect
 Do we have a Discord bot?
